@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "botvago",
+    "username": "BotKabron",
     "password": "",
     "type": "offline"
   },
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -59,7 +59,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": false,
+    "combat": true,
     "beds": true,
     "chat": true,
     "console-commands": true
@@ -73,7 +73,7 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.com/api/webhooks/1519269482303062026/r6yp_UUiRbEsW6zX6u6nmiWlr-O-7DJtRToTX5EmhYFWL2Cl5GwKaeVm78zTfAiv-OEO",
     "events": {
       "connect": true,
