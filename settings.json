@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vagancia.aternos.mee",
+    "ip": "vagancia.aternos.me",
     "port": 12850,
     "version": "1.21.10",
     "try-creative": false
