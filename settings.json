@@ -73,12 +73,12 @@
     "place-night": true
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "https://discord.com/api/webhooks/1519269482303062026/r6yp_UUiRbEsW6zX6u6nmiWlr-O-7DJtRToTX5EmhYFWL2Cl5GwKaeVm78zTfAiv-OEO",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1521369959211598005/l2eTcAA_jtKPeGnjHwmwX11qXSjYYLlMhtf_9V3j5FGRwR5Uy6fohuvK4eB6p5j7mZTt",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
