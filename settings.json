@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BotKabron",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "vagancia.aternos.me",
